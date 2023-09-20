@@ -2,8 +2,5 @@
   "title": "KNote",
   "description": "knote it down!",
   "applicationName": "KNote",
-  "icons": "/moon/1.svg",
-  "authors": [
-    { "name": "kamal kashyap", "url": "https://github.com/thekamalkashyap" }
-  ]
+  "icons": "/moon/1.svg"
 }
